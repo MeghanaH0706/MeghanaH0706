@@ -1,4 +1,4 @@
- ![Linkedin_Cover_-_Data_Scientist_py4mog](https://thumbs.dreamstime.com/b/big-data-center-analyzes-data-science-background-presentation-big-data-center-analyzes-data-science-background-159196598.jpg)
+ ![Linkedin_Cover_-_Data_Scientist_py4mog](https://thumbs.dreamstime.com/b/big-data-science-analysis-business-technology-concept-virtual-screen-big-data-science-analysis-business-technology-concept-145015243.jpg)
 <h1 align="center">Hi 👋, I'm Meghana</h1>
 <h3 align="center">A passionate Data Science Enthusiast</h3>
 
