@@ -11,7 +11,7 @@
 
 ## `Connect with me:`
 <p align="left">
-<a href="https://www.linkedin.com/in/meghana-h-481697254" target="blank"><img align="center" src="https://img.icons8.com/color/344/linkedin-circled--v1.png" alt="Meghana H" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/contactmeghana" target="blank"><img align="center" src="https://img.icons8.com/color/344/linkedin-circled--v1.png" alt="Meghana H" height="50" width="50" /></a>
 
 
 ![Filter Method](https://static.wixstatic.com/media/3e99b9_f53a1cab95ae4dfd938a1bf6a1a62f49~mv2.gif)
